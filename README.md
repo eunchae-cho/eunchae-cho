@@ -1,6 +1,6 @@
 
 Hallo 👋   
-I am working as a **Fullstack Developer**, currently learning Kotlin and React 🤹‍♂.   
+I am working as a 🌱Fullstack Developer, currently learning Kotlin and React 🤹‍♂.   
 
 <!--
 **eunchae-cho/eunchae-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
