@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hallo 👋
+
+**Fullstack Developer**
 
 <!--
 **eunchae-cho/eunchae-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 Skills
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
