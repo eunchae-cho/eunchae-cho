@@ -1,6 +1,6 @@
-### Hallo 👋
 
-**Fullstack Developer**
+Hallo 👋   
+I am working as a **Fullstack Developer**, currently learning Kotlin and React 🤹‍♂.   
 
 <!--
 **eunchae-cho/eunchae-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 ### 💻 Skills
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0096c6?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-1ac1ff?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
